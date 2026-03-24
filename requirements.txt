@@ -6,3 +6,12 @@ matplotlib
 ipympl
 scikit-learn
 pandas
+
+# Week 5 — LoRA fine-tuning & RAG
+transformers
+peft
+trl
+datasets
+sentence-transformers
+opensearch-py
+accelerate
