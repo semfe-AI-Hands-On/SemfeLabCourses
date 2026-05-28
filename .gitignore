@@ -1,3 +1,10 @@
 .DS_Store
+__pycache__/
+*.pyc
+*.pyo
+.env
+.python-version
 **/venv/
 **/myvenv/
+results/
+Week8_Customer_Ranking/retail_data.csv
